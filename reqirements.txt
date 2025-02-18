@@ -1,2 +1,6 @@
-'''Прописать зависимости после создания проекта
-или сгенерировать через pip freeze'''
+psycopg2
+pandas
+sqlalchemy
+requests
+os
+dotenv
